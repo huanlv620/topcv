@@ -1,0 +1,188 @@
+ul li a{
+	color: white;
+	text-transform: uppercase;
+	font-size: 18px;
+	/*background: yellow;*/
+}
+ul li a:hover{
+	color: white;
+	opacity: 0.7;
+}
+.text{
+	color: white;
+	font-family:
+}
+.page{
+		/*position:relative;*/
+		/*opacity: 0.5;*/
+		/*background: blue;*/
+}
+.logo{
+	position: absolute;
+	top:1rem;
+	left: 12rem;
+}
+.page .nav{
+	/*background: green;*/
+	width: 830px;
+}
+.page .nav{
+	position: absolute;
+	top: 1rem;
+	right: 11rem;
+}
+.page .text{
+	position: absolute;
+	top:15rem;
+}
+.page .ungvien{
+	position: absolute;
+	top:26rem;
+}
+.text h1{
+	font-size: 40px !important;
+	font-weight: 370 !important;
+}
+.text h2{
+	font-size: 20px;
+	font-weight: 300 !important;
+}
+span{
+	font-size: 15px !important;
+    text-transform: uppercase;
+    font-weight: 500;
+    display: inline-block;
+    letter-spacing: 2px;
+}
+.page .ungvien .dtn{
+	font-size: 23px !important;
+	background:#426EB4;
+}
+.page .ungvien .dtn:hover{
+	/*font-size: 23px !important;*/
+	background:#184785;
+}
+.page .ungvien .tuv{
+	font-size: 23px !important;
+	background:#5BBD2B; 
+}
+.page .ungvien .tuv:hover{
+	font-size: 23px !important;
+	background:#489620; 
+}
+.page .AreLogo{
+	background: #eee !important;
+}
+.page .WhyTopcv .row .whytext{
+	/*background: blue;*/
+	font-size: 30px !important;
+}
+.page .WhyTopcv .row .col-3 .number{
+	font-size: 60px;
+	font-weight: 300;
+}
+.page .WhyTopcv .row .col-3 .title{
+	font-size: 18 px;
+    font-weight: 500;
+    color: #999;
+}
+.page .WhyTopcv .row .col-6 h3{
+	/*background: blue !important;*/
+	float: left;
+	font-size: 32px;
+   }
+   .page .WhyTopcv .row .line1  .line{
+	background: black;
+	height: 7px;
+	width: 40px;
+	margin-top: 60px;
+   }
+   .page .WhyTopcv .row .col-6 p{
+	/*background: yellow !important;*/
+	text-align: justify;
+	font-size: 20px;
+	margin:9px 0;
+   }
+   .page .WhyTopcv .row .col-6 span{
+	float: left;
+	}
+	.page .WhyTopcv .row .col-12 h3{
+	float: left;
+	font-size: 36px;
+	margin-top: 80px;
+	font-weight: 500;
+	}
+	 .page .WhyTopcv .row .line1  .line2{
+	margin-top: 140px;
+   }
+    .page .WhyTopcv .row .col-4  h4{
+	/*background: yellow !important;*/
+	font-size: 21px;
+	margin: 20px 0px;
+	/*float: left;*/
+		text-align: justify;
+   }
+    .page .WhyTopcv .row .col-4  p{
+	text-align: justify;
+	font-family: roboto,sans-serif;
+	font-size: 24px;
+   }
+    .page .WhyTopcv .row .col-4  .cskh{
+		margin-left: 135px;
+   }
+    .page .WhyTopcv .row .line3{
+			/*background:blue;*/
+			opacity: 0.5;
+			height: 1px;
+			width: 100%;
+			margin: 150px 0px 50px 0px;
+   }
+   .page .WhyTopcv .row .col-12 h4{
+			font-size: 40px;
+			opacity: 0.5;
+			font-weight: 300;
+   }
+   .page .hi .row {
+  		height: 200px;
+  		background:#00405d;
+   }
+
+   .page .hi .row .col-7{
+   	/*background: green !important;*/
+   	font-size: 50px;
+   	color: white;
+   	margin-top: 50px;
+   }
+     .page .hi .row .col-5 p{
+   	/*background: green !important;*/
+   	font-size: 30px;
+   	float: left;
+   	margin-top: 60px;
+  	padding: 5px 40px 5px 40px !important;
+   }
+   .page .cuoi .row .col-8 p{
+   	/*background: yellow !important;*/
+   	font-size: 15px;
+   	text-align: justify;
+   }
+    .page .cuoi .row .col-4 a img{
+   		float: left;
+   	}
+   	.page .cuoi .row .col-4 .row .col-12 a img{
+   		float: right;
+   	}
+   		.page .cuoi .row .col-4 .row .col-12 p{
+   		font-size: 14px; 
+   		float: left;
+   		margin-top: 7px;
+   	}
+   	.page .mess{
+   		position: fixed;
+   		bottom: 5px;
+   		left: 1600px;
+   	}
+   		.page .chuong{
+   		position: fixed;
+   		bottom: 5px;
+   		right: 1600px;
+   	}
